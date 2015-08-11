@@ -1,3 +1,7 @@
 1
 child2
+<<<<<<< HEAD
 master
+=======
+child2
+>>>>>>> child3
